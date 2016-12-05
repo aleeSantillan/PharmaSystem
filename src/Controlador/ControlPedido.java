@@ -5,10 +5,7 @@
  */
 package Controlador;
 
-/**
- *
- * @author Eduardo
- */
+
 public class ControlPedido {
-    
+    //Se elimino todo de la clase ControlPedido
 }
