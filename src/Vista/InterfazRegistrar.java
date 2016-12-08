@@ -81,7 +81,7 @@ public class InterfazRegistrar extends javax.swing.JPanel {
 
         JlIngrese1.setFont(new java.awt.Font("Trebuchet MS", 1, 14)); // NOI18N
         JlIngrese1.setForeground(new java.awt.Color(255, 255, 255));
-        JlIngrese1.setText("Porfavor ingrese la siguiente informacion :");
+        JlIngrese1.setText("Por favor ingrese la siguiente información :");
 
         txtNomComer.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         txtNomComer.addActionListener(new java.awt.event.ActionListener() {
